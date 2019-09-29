@@ -1,9 +1,10 @@
 % Computes auxiliary matrices used in 'pauli_action.m' to compute the coherent information of a graph state under Pauli noise.
 % 
-% This code is based on the paper "Error Thresholds for
-% Arbitrary Pauli Noise", J. Bausch and F. Leditzky, arXiv:xxxx.xxxxx 
+% This code is based on the paper
+%
+% "Error Thresholds for Arbitrary Pauli Noise", J. Bausch and F. Leditzky, arXiv:xxxx.xxxxx 
 % 
-% Code written 2019 by Felix Leditzky.
+% (c) 2019, Felix Leditzky.
 
 function [U_array] = get_U_subsets(k,r,flag)
 

@@ -18,10 +18,11 @@
 % lambda ... Coefficient vector of the diagonal joint state sigma_RB. 
 % lambda_a ... Coefficient vector of the diagonal marginal state sigma_B.
 % 
-% This code is based on Algorithm 1 of the paper "Error Thresholds for
-% Arbitrary Pauli Noise", J. Bausch and F. Leditzky, arXiv:xxxx.xxxxx 
+% This code is based on Algorithm 1 of the paper 
+%
+% "Error Thresholds for Arbitrary Pauli Noise", J. Bausch and F. Leditzky, arXiv:xxxx.xxxxx 
 % 
-% Code written 2019 by Felix Leditzky.
+% (c) 2019, Felix Leditzky.
 
 function [cI,lambda,lambda_a] = pauli_action(G,p,k,r,U_array)
 if (length(p)~=4)
