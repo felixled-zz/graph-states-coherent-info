@@ -8,7 +8,7 @@ b) no other file in the source tree conflicts with this license.
 Attribution may be given to Felix Leditzky.
 In case you use this software as part of any published work, please cite the accompanying paper 
 
-"Error Tresholds for Arbitrary Pauli Noise", Johannes Bausch and Felix Leditzky, 2019. arXiv:xxxx.xxxxx
+"Error Tresholds for Arbitrary Pauli Noise", Johannes Bausch and Felix Leditzky, 2019. arXiv:1910.00471
 
 
 

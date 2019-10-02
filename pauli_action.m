@@ -20,7 +20,7 @@
 % 
 % This code is based on Algorithm 1 of the paper 
 %
-% "Error Thresholds for Arbitrary Pauli Noise", J. Bausch and F. Leditzky, arXiv:xxxx.xxxxx 
+% "Error Thresholds for Arbitrary Pauli Noise", J. Bausch and F. Leditzky, arXiv:1910.00471 
 % 
 % (c) 2019, Felix Leditzky.
 

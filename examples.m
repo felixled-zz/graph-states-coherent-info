@@ -1,7 +1,7 @@
 % Examples for computing the coherent information of graph states using the
 % MATLAB routine 'pauli_action.m', taken from the paper "Error Thresholds
 % for Arbitrary Pauli Noise", Johannes Bausch and Felix Leditzky,
-% arXiv:xxxx.xxxxx
+% arXiv:1910.00471
 
 %% CI of a repetition code on 5 system qubits (see eq.20 in [BL19]) under depolarizing noise.
 

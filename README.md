@@ -1,7 +1,7 @@
-# graph-states-coherent-info [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-blue.svg?style=flat)](https://arxiv.org/abs/xxxx.xxxxx) [![forthebadge cc-sa](http://ForTheBadge.com/images/badges/cc-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0)
+# graph-states-coherent-info [![arXiv](https://img.shields.io/badge/arXiv-1910.00471-blue.svg?style=flat)](https://arxiv.org/abs/1910.00471) [![forthebadge cc-sa](http://ForTheBadge.com/images/badges/cc-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0)
 This MATLAB code computes the coherent information of a graph state under arbitrary i.i.d. Pauli noise, implementing Algorithm 1 in the paper 
 
-"Error Tresholds for Arbitrary Pauli Noise", Johannes Bausch and Felix Leditzky, [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx)
+"Error Tresholds for Arbitrary Pauli Noise", Johannes Bausch and Felix Leditzky, [arXiv:1910.00471](https://arxiv.org/abs/1910.00471)
 
 ## Files
 * `pauli_action.m`: Main function that computes the coherent information of a graph state given by the adjacency matrix of the graph.
